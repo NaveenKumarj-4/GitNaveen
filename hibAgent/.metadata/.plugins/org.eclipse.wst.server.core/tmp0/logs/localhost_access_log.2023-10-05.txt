@@ -1,0 +1,8 @@
+127.0.0.1 - - [05/Oct/2023:09:28:51 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [05/Oct/2023:09:28:55 +0530] "GET /HibDBAgent/AgentShow.xhtml HTTP/1.1" 200 3996
+0:0:0:0:0:0:0:1 - - [05/Oct/2023:09:28:55 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [05/Oct/2023:09:29:05 +0530] "POST /HibDBAgent/AgentShow.xhtml HTTP/1.1" 500 29443
+0:0:0:0:0:0:0:1 - - [05/Oct/2023:09:30:01 +0530] "GET /HibDBAgent/AgentShow.xhtml HTTP/1.1" 200 3995
+0:0:0:0:0:0:0:1 - - [05/Oct/2023:09:30:01 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [05/Oct/2023:09:30:07 +0530] "GET /HibDBAgent/AgentShow.xhtml HTTP/1.1" 200 3996
+0:0:0:0:0:0:0:1 - - [05/Oct/2023:09:30:11 +0530] "POST /HibDBAgent/AgentShow.xhtml HTTP/1.1" 500 29443
